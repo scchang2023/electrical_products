@@ -25,5 +25,5 @@
 
 - [電風扇](./30_電風扇/README.md)
 - [大同電鍋](./31_大同電鍋/README.md)
-- 啟動電容原理
-- TRIAC原理
+- [啟動電容原理](./32_啟動電容原理/README.md)
+- [TRIAC原理](./33_Triac原理/README.md)
