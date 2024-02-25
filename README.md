@@ -6,7 +6,8 @@
 - [車用暖風機](./車用暖風機/README.md)
 - [LED電燈](./LED電燈/README.md)
 - [加壓馬達](./加壓馬達/README.md)
-- [RLC meter](./RLC_meter/)
+- [RLC meter](./RLC_meter/README.md)
+- [鐵捲門馬達](./鐵捲門馬達/README.md)
 
 ## DIY 套件
 
@@ -14,6 +15,11 @@
 
 ## 老師補充資料
 
-- [電鍋](./電鍋/README.md)
-- [電風扇](./電風扇/README.md)
-- [微波爐](./微波爐/README.md)
+- [氣炸鍋原理](./氣炸鍋原理/README.md)
+- [微波爐原理](./微波爐原理/README.md)
+- [蔽極式馬達原理](./蔽極式馬達原理/README.md)
+
+## 自己補充資料
+
+- 啟動電容原理
+- TRIAC原理
