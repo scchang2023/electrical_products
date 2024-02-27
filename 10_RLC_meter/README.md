@@ -5,11 +5,19 @@
 - [電路圖](./Schematic_Transistor%20tester%20GM328A_2020-04-30_00-19-43.pdf)
 - 老師的成品圖
 
-  ![圖1](./老師的成品圖/RLC_meter_0.jpg)
+  ![圖1](./成品圖_teacher/RLC_meter_0.jpg)
 
-  ![圖2](./老師的成品圖/RLC_meter_1.jpg)
+  ![圖2](./成品圖_teacher/RLC_meter_1.jpg)
 
-  ![圖3](./老師的成品圖/RLC_meter_2.jpg)
+  ![圖3](./成品圖_teacher/RLC_meter_2.jpg)
+
+- 我的成品圖
+
+  我在左手邊加了一個開關，這樣方便不用把電池拔掉，就能斷電了。
+
+  ![圖1](./成品圖_my/0.jpg)
+
+  ![圖2](./成品圖_my/1.jpg)
   
 - [Firmware](./Transistor%20tester%20GM328A/)
 
