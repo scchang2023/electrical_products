@@ -11,7 +11,7 @@
 ## DIY 套件
 
 - [RLC meter](./10_RLC_meter/README.md)
-- [功率分析儀](./11_功率分析儀/README.md)
+- [電流監控插座](./11_電流監控插座/README.md)
 
 ## 老師補充資料
 
