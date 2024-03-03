@@ -2,7 +2,7 @@
 
 - 規格型號：Transistor tester GM328A
 - [使用手冊](./esr_tester_GM328_manual.pdf)
-- [電路圖](./Schematic_Transistor%20tester%20GM328A_2020-04-30_00-19-43.pdf)
+- [電路圖](./Transistor%20tester%20GM328A/Schematic_Transistor%20tester%20GM328A_2020-04-30_00-19-43.pdf)
 - 老師的成品圖
 
   ![圖1](./成品圖_teacher/RLC_meter_0.jpg)
@@ -19,7 +19,7 @@
 
   ![圖2](./成品圖_my/1.jpg)
   
-- [Firmware](./Transistor%20tester%20GM328A/)
+- [Firmware](./Transistor%20tester%20GM328A/Firmware/)
 
 - 問題：
   
