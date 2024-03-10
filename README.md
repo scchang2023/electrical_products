@@ -12,6 +12,7 @@
 
 - [RLC meter](./10_RLC_meter/README.md)
 - [電流監控插座](./11_電流監控插座/README.md)
+- [LED測試儀](./12_LED測試儀/README.md)
 
 ## 老師補充資料
 
