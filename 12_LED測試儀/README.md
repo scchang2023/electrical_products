@@ -19,7 +19,9 @@
 ![Alt Text](./05_LED測試儀_實際操作圖.jpg)
 
 - 定電流電路圖
-![Alt Text](./06_LED測試儀_定電流電路圖.png)
+  ![Alt Text](./06_LED測試儀_定電流電路圖.png)
+
+  ![Alt Text](./06_LED測試儀_定電流電路圖2.png)
 
 我的作品
 
