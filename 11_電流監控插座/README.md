@@ -6,16 +6,16 @@
 
 - [產品資訊](./D69-2058.pdf)
 
-- 外觀圖
+- 實體圖_正面
 
-  ![Alt text](./0.jpg)
+  ![Alt text](./電流監控插座_實體圖_正面.jpg)
 
-  ![Alt text](./1.jpg)
+- 實體圖_反面
 
-  ![Alt text](./2.jpg)
+  ![Alt text](./電流監控插座_實體圖_背面.jpg)
 
-- 內部接線圖
+- 接線圖
 
-  ![Alt text](./3.jpg)
+  ![Alt text](./電流監控插座_接線圖.png)
 
 - [Demo](https://youtu.be/p7oQK_WzSpE)
